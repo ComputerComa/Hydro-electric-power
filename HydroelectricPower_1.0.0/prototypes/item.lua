@@ -1,12 +1,24 @@
-local smallhydroelectricturbine = table.deepcopy(data.raw.item["steam-engine"])
-smallhydroelectricturbine.name = "small-hydroelectric-turbine"
-smallhydroelectricturbine.icons = {
+data:extend({
     {
-        icon=smallhydroelectricturbine.icon,
-        tint={tint={r=0,g=0,b=1,a=1}}
+      type = "item",
+      name = "small-hydroelectric-turbine",
+      icon = "__base__/graphics/icons/steam-engine.png",
+      icon_size = 64,
+     -- flags = {"goes-to-quickbar"},
+      subgroup = "energy",
+      order = "d[steam-power]-h[steam-turbine]",
+      place_result = "small-hydroelectric-turbine",
+      stack_size = 10
+    },
+    {
+      type = "item",
+      name = "large-hydroelectric-turbine",
+      icon = "__base__/graphics/icons/steam-engine.png",
+      icon_size = 64,
+     -- flags = {"goes-to-quickbar"},
+      subgroup = "energy",
+      order = "d[steam-power]-h[steam-turbine]",
+      place_result = "large-hydroelectric-turbine",
+      stack_size = 10
     }
-}
-
-smallhydroelectricturbine.energy_source = "fluid"
-smallhydroelectricturbine.fluid_box.filter = "water"
-data.extends{smallhydroelectricturbine}
+  })
