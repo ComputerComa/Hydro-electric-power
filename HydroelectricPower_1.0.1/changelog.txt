@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 02.05.2022
+  Balancing:
+    - Reworked Power Output so it's not as Over Powered. 
+    - Changed power so that the high efficiency version outputs 4.5MW instead of 90MW and the Standard efficiency outupts 1.5MW
+    - Changed translations to be more understandable.
+  Optimisations:
+    - Code tidying and cleanup.
+  Additions:
+    - Added Changelog.
+    - Added Screenshots to the Mod Portal.
+---------------------------------------------------------------------------------------------------
