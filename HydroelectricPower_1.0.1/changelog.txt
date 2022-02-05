@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
-Date: 02.05.2022
+Date: 2022-05-02
   Balancing:
     - Reworked Power Output so it's not as Over Powered. 
     - Changed power so that the high efficiency version outputs 4.5MW instead of 90MW and the Standard efficiency outupts 1.5MW
