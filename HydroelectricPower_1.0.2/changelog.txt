@@ -10,3 +10,8 @@ Date: 2022-05-02
   Changes:
     - Added Changelog.
     - Added Screenshots to the Mod Portal.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2022-16-02
+  Changes:
+    - Added technology for higher tiers
