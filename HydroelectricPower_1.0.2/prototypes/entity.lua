@@ -190,7 +190,7 @@ data:extend({
     dying_explosion = "medium-explosion",
     alert_icon_shift = util.by_pixel(0, -12),
     effectivity = 1,
-    fluid_usage_per_tick = (8/60),
+    fluid_usage_per_tick = (16/60),
     burns_fluid = true,
     maximum_temperature = 25,
     maximum_temperature = 25,
