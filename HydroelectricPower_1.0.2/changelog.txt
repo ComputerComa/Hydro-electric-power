@@ -14,4 +14,6 @@ Date: 2022-05-02
 Version: 1.0.2
 Date: 2022-16-02
   Changes:
-    - Added technology for higher tiers
+    - Added technology for higher tier fluid pumps
+    - Brought back the 1.0.0 OP ones as separate entities
+    - added migrations for above change
