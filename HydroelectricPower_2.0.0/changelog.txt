@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2023-02-13
+  Changes:
+    - Add Settings options to change power output values

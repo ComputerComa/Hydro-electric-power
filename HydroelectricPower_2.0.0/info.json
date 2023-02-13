@@ -1,0 +1,9 @@
+{"name":"HydroelectricPower",
+"version" : "2.0.0",
+"title": "Hydro Electric Power",
+"author": "ComputerComa",
+"factorio_version": "1.1",
+"dependencies": ["? Squeak Through"],
+"source": "https://github.com/ComputerComa/Hydro-electric-power",
+"description": "Adds some starter and early game Hydroelectric power generation."
+}
