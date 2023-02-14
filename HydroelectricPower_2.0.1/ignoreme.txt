@@ -1,0 +1,2 @@
+data.raw.generator["small-hydroelectric-turbine"].max_power_output = settings.startup["hydro-power-small-power-output-value"].value
+data.raw.generator["large-hydroelectric-turbine"].max_power_output = settings.startup["hydro-power-large-power-output-value"].value
