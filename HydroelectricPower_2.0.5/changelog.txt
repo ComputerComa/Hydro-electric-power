@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2023-02-13
+  Changes:
+    - Add Settings options to change power output values
+    - Removed recipies for small-hydroelectric-turbine-old, large-hydroelectric-turbine-old, and the old-new / new-old conversion recipies
+  info:
+    - Updating to this version will remove the small-hydroelectric-turbine-old and large-hydroelectric-turbine-old and will replace them with the current ones.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 2023-02-13
+  Changes:
+    - Hotfix to fix efficiency values I was playing with
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 2023-02-13
+  Changes:
+    - Fix missing locale
+---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+Date: 2023-02-13
+  Changes:
+    - Lower fluid consumption values
+---------------------------------------------------------------------------------------------------
+Version: 2.0.4
+Date: 2023-02-
+  Changes:
+    - Fix missing locale... again

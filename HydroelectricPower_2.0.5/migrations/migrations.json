@@ -1,0 +1,13 @@
+{
+    "entity":
+    [
+      ["small-hydroelectric-turbine-old", "small-hydroelectric-turbine"],
+      ["large-hydroelectric-turbine-old", "large-hydroelectric-turbine"]
+    ],
+    "item":
+    [
+        ["small-hydroelectric-turbine-old", "small-hydroelectric-turbine"],
+        ["large-hydroelectric-turbine-old", "large-hydroelectric-turbine"]
+    ]
+  }
+  
